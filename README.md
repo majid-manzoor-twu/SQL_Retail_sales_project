@@ -3,7 +3,6 @@
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
-**Level**: Beginner  
 **Database**: `p1_retail_db`
 
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
@@ -82,7 +81,7 @@ The following SQL queries were developed to answer specific business questions:
 
 6. **Write a SQL query to find the total number of transactions (transaction_id) made by each gender in each category.**:
 
-7. **Write a SQL query to calculate the average sale for each month. Find out best selling month in each year**:
+7. **Write a SQL query to calculate the average sale for each month.**:
 
 8. **Write a SQL query to find the top 5 customers based on the highest total sales **:
 
